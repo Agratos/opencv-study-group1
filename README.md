@@ -1,5 +1,8 @@
 # opencv-study-group1
 
+## 2020-12-31
+### 1) opencv 이미지 전처리(픽셀,제공함수)
+
 ## 2020-12-30
 ### 1) python opencv 설치
 ### 2) python opencv 이미지 출력
