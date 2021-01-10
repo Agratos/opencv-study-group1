@@ -1,5 +1,9 @@
 # opencv-study-group1
 
+## 2021-1-7
+### 1) opencv labeling
+##### 팀 미팅 : 2021-01-08 17~18
+
 ## 2021-1-4
 ### 1) opencv histogram
 ### 2) opencv colorization
